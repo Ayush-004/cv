@@ -29,7 +29,7 @@ h3{
     padding-top: 100px;
 }
 .middle_container{
-    background-color: red;
+    
     height: 200px;
     width: 200px;
 }
@@ -103,5 +103,8 @@ a{
 .dottedline{
     border: none; border-top: 10px dotted #EAF6F6;
     width: 10%;
-    
+
   }
+.bgcolor{
+    background-color: #ceffe8fc;
+}
